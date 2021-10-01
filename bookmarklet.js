@@ -1,0 +1,1 @@
+javascript: (() => { var styles = '::selection {background-color: #fce10b; color: black;}'; var styleSheet = document.createElement("style"); styleSheet.type = "text/css"; styleSheet.innerText = styles; document.head.appendChild(styleSheet); } ) ();
